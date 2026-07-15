@@ -1,0 +1,11 @@
+{
+  "name": "watchanimeworld-api",
+  "version": "2.0.0",
+  "description": "Verified API for watchanimeworld.net — built from live HTML inspection",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
